@@ -1,0 +1,15 @@
+M:\Cours (code)\code\Prog3\LabSemaine2\LabSemaine2\bin\Debug\net6.0\LabSemaine2.exe
+M:\Cours (code)\code\Prog3\LabSemaine2\LabSemaine2\bin\Debug\net6.0\LabSemaine2.deps.json
+M:\Cours (code)\code\Prog3\LabSemaine2\LabSemaine2\bin\Debug\net6.0\LabSemaine2.runtimeconfig.json
+M:\Cours (code)\code\Prog3\LabSemaine2\LabSemaine2\bin\Debug\net6.0\LabSemaine2.dll
+M:\Cours (code)\code\Prog3\LabSemaine2\LabSemaine2\bin\Debug\net6.0\LabSemaine2.pdb
+M:\Cours (code)\code\Prog3\LabSemaine2\LabSemaine2\obj\Debug\net6.0\LabSemaine2.csproj.AssemblyReference.cache
+M:\Cours (code)\code\Prog3\LabSemaine2\LabSemaine2\obj\Debug\net6.0\LabSemaine2.GeneratedMSBuildEditorConfig.editorconfig
+M:\Cours (code)\code\Prog3\LabSemaine2\LabSemaine2\obj\Debug\net6.0\LabSemaine2.AssemblyInfoInputs.cache
+M:\Cours (code)\code\Prog3\LabSemaine2\LabSemaine2\obj\Debug\net6.0\LabSemaine2.AssemblyInfo.cs
+M:\Cours (code)\code\Prog3\LabSemaine2\LabSemaine2\obj\Debug\net6.0\LabSemaine2.csproj.CoreCompileInputs.cache
+M:\Cours (code)\code\Prog3\LabSemaine2\LabSemaine2\obj\Debug\net6.0\LabSemaine2.dll
+M:\Cours (code)\code\Prog3\LabSemaine2\LabSemaine2\obj\Debug\net6.0\refint\LabSemaine2.dll
+M:\Cours (code)\code\Prog3\LabSemaine2\LabSemaine2\obj\Debug\net6.0\LabSemaine2.pdb
+M:\Cours (code)\code\Prog3\LabSemaine2\LabSemaine2\obj\Debug\net6.0\LabSemaine2.genruntimeconfig.cache
+M:\Cours (code)\code\Prog3\LabSemaine2\LabSemaine2\obj\Debug\net6.0\ref\LabSemaine2.dll
