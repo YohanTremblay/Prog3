@@ -6168,11 +6168,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "M:\\Cours (code)\\code\\Prog3\\LabSemaine2\\LabSemaine2Test\\LabSemaine2Test.csproj",
+      "projectUniqueName": "C:\\Users\\2132535\\Documents\\Code\\Prog3\\Prog3\\LabSemaine2Test\\LabSemaine2Test.csproj",
       "projectName": "LabSemaine2Test",
-      "projectPath": "M:\\Cours (code)\\code\\Prog3\\LabSemaine2\\LabSemaine2Test\\LabSemaine2Test.csproj",
+      "projectPath": "C:\\Users\\2132535\\Documents\\Code\\Prog3\\Prog3\\LabSemaine2Test\\LabSemaine2Test.csproj",
       "packagesPath": "C:\\Users\\2132535\\.nuget\\packages\\",
-      "outputPath": "M:\\Cours (code)\\code\\Prog3\\LabSemaine2\\LabSemaine2Test\\obj\\",
+      "outputPath": "C:\\Users\\2132535\\Documents\\Code\\Prog3\\Prog3\\LabSemaine2Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6192,8 +6192,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "M:\\Cours (code)\\code\\Prog3\\LabSemaine2\\LabSemaine2\\LabSemaine2.csproj": {
-              "projectPath": "M:\\Cours (code)\\code\\Prog3\\LabSemaine2\\LabSemaine2\\LabSemaine2.csproj"
+            "C:\\Users\\2132535\\Documents\\Code\\Prog3\\Prog3\\LabSemaine2\\LabSemaine2.csproj": {
+              "projectPath": "C:\\Users\\2132535\\Documents\\Code\\Prog3\\Prog3\\LabSemaine2\\LabSemaine2.csproj"
             }
           }
         }

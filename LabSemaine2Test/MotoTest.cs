@@ -263,6 +263,18 @@ namespace LabSemaine2Test
                 Assert.AreEqual(valeur, texte1);
             }
         }
+        [TestMethod]
+        public void Demarrer_AffichageMessage_AfficheVrooooom()
+        {
+            using (var sw = new StringWriter())
+            {
+                Console.SetOut(sw);
+                moteur.DemarrerMoteur();
+
+                var result = sw.ToString().Trim();
+                Assert.AreEqual("Vrooooom !", result);
+            }
+        }
 
     }
 }
